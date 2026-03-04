@@ -20,8 +20,13 @@ body{
 
 /* Profile Image */
 
-.card img {
+/* .card img {
     width: 120px;
+    border-radius: 50%;
+} */
+
+.oap {
+    width: 500px;
     border-radius: 50%;
 }
 
